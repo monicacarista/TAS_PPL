@@ -26,7 +26,7 @@ WebUI.setEncryptedText(findTestObject('Page_Login/input_Login Akun_password (4)'
 
 WebUI.click(findTestObject('Page_Login/button_Login (4)'))
 
-WebUI.navigateToUrl('https://testingjarkom.000webhostapp.com/admin/login.php')
+WebUI.navigateToUrl('https://testingjarkom.000webhostapp.com/admin/dashboard.php')
 
 tes = WebUI.getUrl()
 
@@ -46,7 +46,7 @@ WebUI.setText(findTestObject('Page_Sistem Antrian Disabilitas/input_Nomor Rekam 
 
 WebUI.setText(findTestObject('Page_Sistem Antrian Disabilitas/input_Nomor Telepon_phone_number (3)'), nomor_hp)
 
-WebUI.click(findTestObject('Page_Sistem Antrian Disabilitas/input_Tanggal Lahir_dob (3)'))
+WebUI.setText(findTestObject('Page_Sistem Antrian Disabilitas/input_Tanggal Lahir_dob (3)'), '2020-01-01')
 
 WebUI.setText(findTestObject('Page_Sistem Antrian Disabilitas/textarea_Alamat_address (3)'), alamat)
 

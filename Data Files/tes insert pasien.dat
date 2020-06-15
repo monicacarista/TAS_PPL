@@ -6,7 +6,7 @@
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
    <dataFileGUID>29f13cb6-8071-4ea2-b2da-8acc5f5c2678</dataFileGUID>
-   <dataSourceUrl>C:\Users\monica\Downloads\UAT_PPL.xlsx</dataSourceUrl>
+   <dataSourceUrl>E:\Tugas\Semester 6\Pengujian Perangkat Lunak\TAS_PPL\UAT_PPL.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
    <isInternalPath>false</isInternalPath>
    <query></query>

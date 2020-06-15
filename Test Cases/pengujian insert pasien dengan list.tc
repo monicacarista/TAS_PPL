@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>pengujian insert pasien dengan list</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ad691ea6-117a-41fc-865f-c6a2e5daf99c</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>490d8933-81d6-42b8-9739-99339072e544</id>
+      <masked>false</masked>
+      <name>nama</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cf39c6a5-5b69-4a03-bfc6-d3c4d0b5b498</id>
+      <masked>false</masked>
+      <name>nomor_rekam_medis</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>22f53567-ebba-4e99-8eaf-080c4becdbcd</id>
+      <masked>false</masked>
+      <name>nomor_hp</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0f68c204-09e3-40e6-9a63-d2d9945224ab</id>
+      <masked>false</masked>
+      <name>alamat</name>
+   </variable>
+</TestCaseEntity>
